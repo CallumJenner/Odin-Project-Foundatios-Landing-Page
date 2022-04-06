@@ -137,3 +137,32 @@ body {
     font-weight: 700;
 }
 
+/* End of Inspirational Quote */
+
+/* Call to Action */
+
+.action-box {
+    background-color: #3882F6;
+    margin: 80px 175px;
+    padding: 50px 80px;
+    border-radius: 12px;
+    display: flex;
+}
+
+.action-text p {
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.action-text strong p {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.action-box .sign-up-button {
+    margin-left: auto;
+    border: white solid 2px;
+}
+
+/* End of Call to Action */
