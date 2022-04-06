@@ -115,3 +115,25 @@ body {
     margin-top: 10px;
 }
 
+/* End of About Me */
+
+/* Inspirational Quote */
+
+.inspirational-quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 250px;
+}
+
+.inspirational-quote .quote-text {
+    font-size: 30px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.inspirational-quote .quote-author {
+    align-self: flex-end;
+    font-weight: 700;
+}
+
