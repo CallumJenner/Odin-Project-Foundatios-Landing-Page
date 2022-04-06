@@ -166,3 +166,19 @@ body {
 }
 
 /* End of Call to Action */
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer span {
+    text-align: center;
+    color: #E5E7EB;
+}
+
+/* End of Footer */
